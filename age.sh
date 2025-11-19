@@ -19,3 +19,4 @@ echo "Welcome to Kbrand bash script"
    else
    echo "Invalid Input"
    fi
+   echo "the last commit by kbrand"
