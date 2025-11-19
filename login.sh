@@ -19,3 +19,4 @@ else
     echo "Login failed! Invalid username or password."
     exit 1
 fi
+echo "YOU ARE KINDLY WELCOMED TO THE SYSTEM"

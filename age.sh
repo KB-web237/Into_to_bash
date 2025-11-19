@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "Welcome to Kbrand bash script"
  echo "The Code to determine the age domain"
   read -p "Enter your name: " name 
   read -p "Enter the age:  " x
