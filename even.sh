@@ -7,3 +7,4 @@ if (( $i % 2 == 0 )); then
 echo "$i"
 fi
 done
+echo "These are the even numbers from 0 to"
