@@ -7,11 +7,11 @@ echo "=========================================="
  if [[ $y -eq $x ]] then 
  echo "You WIN"
   elif [[ $y -lt $x ]] then
-   echo "You Loss"
+   echo "You Lose!"
    echo "you below the win number"
    elif [[ $y -gt $x ]] then
-   echo "You Loss"
-   echo "you above the win number"
+   echo "You Lose!"
+   echo "you are above the win number"
 else
   echo "Invalid number, Not within the range"
 fi
